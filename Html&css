@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <style>
+
+  .container{ 
+height:400px;
+width:400px;
+padding:20px;
+margin:auto;
+border:2px solid red;
+display:flux;
+  display:inline-block;
+      
+}     
+   
+  .content1{ 
+  height:175px;
+  width:175px;
+  border:2px solid grey;
+  float:right;
+  margin:5px;
+  font-size:9px;
+  padding:5px;
+    border-radius:15px;
+  }
+  .content2{ 
+  height:175px;
+  width:175px;
+  border:2px solid pink;
+  margin:5px;
+  font-size:9px;
+  padding:5px;
+    border-radius:15px;
+  }
+    .content3{ 
+  height:175px;
+  width:175px;
+  border:2px solid blue; 
+     float:right; 
+      margin:5px;
+  font-size:9px;
+  padding:5px; 
+      border-radius:15px;
+   
+   }
+   .content4{ 
+  height:175px;
+  width:175px;
+  border:2px solid red; 
+     float:right; 
+  margin:5px;
+  font-size:9px;
+  padding:5px;    
+   border-radius:15px;
+   }
+   
+  
+   </style>   
+   </head>
+        
+        
+        
+        
+  <body>
+    
+  <div class="container">  
+    
+  <div class="content1">
+    <img src="IMG_20230818_200841.jpg" height="100" width=180">
+   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus veniam perspiciatis soluta exercitationem quisquam maxime commodi iste accusamus quo?<
+    
+    
+   
+  </div>
+  <div class ="content2">
+    <img src="IMG_20230818_200841.jpg" height="100" width=180">
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus veniam perspiciatis soluta exercitationem quisquam maxime commodi iste accusamus quo?
+    
+  </div>
+  <div class="content3">
+    <img src="IMG_20230818_200841.jpg" height="100" width=180">
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus veniam perspiciatis soluta exercitationem quisquam maxime commodi iste accusamus quo?
+  </div>
+     
+ <div class="content4">
+   <img src="IMG_20230818_200841.jpg" height="100" width=180">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde temporibus veniam perspiciatis soluta exercitationem quisquam maxime commodi iste accusamus quo?
+ </div>
+     
+</body>
+</html>
